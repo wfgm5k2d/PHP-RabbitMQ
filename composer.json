@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bunny/bunny": "^0.5.5",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
